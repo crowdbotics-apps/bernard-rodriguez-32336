@@ -13,6 +13,7 @@
   },
   "dependencies": {
     "@modules/app-menu": "file:./modules/app-menu/",
+    "@modules/login": "file:./modules/login/",
     "@modules/maps": "file:./modules/maps/",
     "@modules/splash": "file:./modules/splash/",
     "@modules/user-profile": "file:./modules/user-profile/",

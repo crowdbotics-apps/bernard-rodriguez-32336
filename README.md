@@ -60,6 +60,7 @@ This section will show any installed modules you add from the Storyboard Modules
 - [react-native-user-profile](modules/user-profile)
 - [react-native-app-menu](modules/app-menu)
 - [react-native-splash](modules/splash)
+- [react-native-login](modules/login)
 
 # Getting started: Frontend
 
