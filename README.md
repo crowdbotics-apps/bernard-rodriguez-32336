@@ -58,6 +58,7 @@ This section will show any installed modules you add from the Storyboard Modules
 - [react-native-maps](modules/maps)
 - [django-push-notifications](backend/modules/push-notifications)
 - [react-native-user-profile](modules/user-profile)
+- [react-native-app-menu](modules/app-menu)
 
 # Getting started: Frontend
 
